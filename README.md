@@ -11,6 +11,7 @@ Nova is a super tiny [RP2040](https://www.raspberrypi.com/products/rp2040/) boar
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Arduino IDE Installation](#arduino-ide-installation)
+- [Pinouts](#pinouts)
 
 ## Features
 
@@ -25,7 +26,12 @@ To get started with Nova, you'll need the following:
 - [Nova Board](link_to_Nova_Product_Page)
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - Compatible power source (USB Type-C, battery, etc.)
-  
+
+## Pinouts
+<img src="https://github.com/user-attachments/assets/c1b9e0ca-4872-408f-9046-8e6d8c238d8b" alt="2" width="800"/>
+
+
+
 ## Arduino IDE Installation
 
 ### Adding Nova Board to Arduino IDE
