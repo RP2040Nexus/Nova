@@ -28,7 +28,7 @@ To get started with Nova, you'll need the following:
 - Compatible power source (USB Type-C, battery, etc.)
 
 ## Pinouts
-<img src="https://github.com/user-attachments/assets/c1b9e0ca-4872-408f-9046-8e6d8c238d8b" alt="2" width="800"/>
+<img src="https://github.com/VccLabs/Nova/blob/main/Pinouts.png" alt="2" width="800"/>
 
 
 
