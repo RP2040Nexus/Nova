@@ -271,3 +271,4 @@ void clearLEDs() {
         leds[i] = CRGB::Black; // Clear the LEDs
     }
 }
+// End of the code
